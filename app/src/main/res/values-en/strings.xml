@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="felhasznalonev">Username</string>
+    <string name="csaladnev">First name</string>
+    <string name="keresztnev">Last name</string>
+    <string name="hozzaadas">Add</string>
+    <string name="szerkeszt">Edit</string>
+    <string name="osszes">Get all</string>
+    <string name="uzenet">Inserted</string>
+    <string name="marfoglalt">Username exist</string>
+    <string name="http">List of workers (HTTP)</string>
+    <string name="adatbazis">Database</string>
+    <string name="szenzor">Sensor</string>
+    <string name="fizetes">Fizetés</string>
+</resources>

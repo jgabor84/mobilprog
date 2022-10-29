@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Beadandó</string>
+    <string name="felhasznalonev">Felhasználónév</string>
+    <string name="csaladnev">Családnév</string>
+    <string name="keresztnev">Keresztnév</string>
+    <string name="hozzaadas">Hozzáadás</string>
+    <string name="szerkeszt">Szerkesztés</string>
+    <string name="osszes">Összes</string>
+    <string name="uzenet">Hozzáadás sikeres!</string>
+    <string name="marfoglalt">Már foglalt</string>
+    <string name="http">Dolgozók listája (HTTP)</string>
+    <string name="adatbazis">Adatbázis</string>
+    <string name="szenzor">Szenzor</string>
+    <string name="fizetes">Fizetés</string>
+</resources>
